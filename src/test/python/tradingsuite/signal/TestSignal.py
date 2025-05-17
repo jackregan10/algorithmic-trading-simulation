@@ -1,5 +1,5 @@
 import unittest
-from tradingsuite.signal.Signal import Signal
+from tradingsuite.signal import Signal
 from DateTime import DateTime
 
 class TestSignal(unittest.TestCase):
